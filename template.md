@@ -1,10 +1,10 @@
 # Hi, I'm <YOUR NAME> 👋
 
-<ONE SENTENCE ABOUT YOU — who you are, what you're doing, why you're here.>
+<ONE SENTENCE ABOUT YOU - who you are, what you're doing, why you're here.>
 
 ## 🛠 What I'm learning right now
 
-- <TECHNOLOGY OR CONCEPT — e.g., "JavaScript fundamentals">
+- <TECHNOLOGY OR CONCEPT - e.g., "JavaScript fundamentals">
 - <TECHNOLOGY OR CONCEPT>
 - <TECHNOLOGY OR CONCEPT>
 

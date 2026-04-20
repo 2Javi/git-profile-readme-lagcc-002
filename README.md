@@ -6,18 +6,20 @@ resources: 3
 
 # Git Profile README
 
-![GitHub profile illustration](https://github.githubassets.com/images/modules/profile/profile-readme.png)
+![GitHub Profile](https://img.shields.io/badge/GitHub_Profile_README-181717?logo=github&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/difficulty-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=for-the-badge)
 
 ## Background
 
-Every GitHub user can create a "profile README" — a Markdown file that renders at the top of their profile page. It's the first thing recruiters, collaborators, and your instructor see when they land on `github.com/<your-username>`.
+Every GitHub user can create a "profile README" - a Markdown file that renders at the top of their profile page. It's the first thing recruiters, collaborators, and your instructor see when they land on `github.com/<your-username>`.
 
 The trick: GitHub treats any **public repository whose name matches your username exactly** as your profile repo, and displays its `README.md` on your profile.
 
 - Username `jane-doe` → public repo named `jane-doe` → the README inside renders on the profile.
 - Username `jsmith42` → public repo named `jsmith42` → same deal.
 
-Companion handbook page: [Module 1 — Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
+Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
 
 ## Objectives
 
@@ -34,7 +36,7 @@ By the end of this exercise you will have:
 
 1. Go to [github.com/new](https://github.com/new).
 2. **Repository name:** type your GitHub username **exactly**. GitHub shows a banner: *"You found a secret! This repository will be featured on your profile."* If you don't see that banner, the name doesn't match your username.
-3. **Visibility:** Public (required — private repos don't render on the profile).
+3. **Visibility:** Public (required - private repos don't render on the profile).
 4. **Check** "Add a README file".
 5. Click **Create repository**.
 
@@ -91,8 +93,8 @@ mkdir -p submissions/<your-username>
 
 Add two files inside `submissions/<your-username>/`:
 
-1. **`notes.md`** — one paragraph: what you put on your profile and why you chose those sections.
-2. **`screenshot.png`** — a screenshot of your rendered GitHub profile page. (macOS: `Cmd + Shift + 4` → drag to capture a region.)
+1. **`notes.md`** - one paragraph: what you put on your profile and why you chose those sections.
+2. **`screenshot.png`** - a screenshot of your rendered GitHub profile page. (macOS: `Cmd + Shift + 4` → drag to capture a region.)
 
 Commit and push:
 
@@ -102,7 +104,7 @@ git commit -m "feat: add profile readme submission for <your-username>"
 git push -u origin <your-username>
 ```
 
-Your branch is your submission. Your instructor pulls it to review — no pull request needed.
+Your branch is your submission. Your instructor pulls it to review - no pull request needed.
 
 ## Checklist
 
@@ -122,6 +124,6 @@ Your branch is your submission. Your instructor pulls it to review — no pull r
 
 ## Resources
 
-- [GitHub Docs](https://docs.github.com/) — [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-- [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) — examples for inspiration
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) — the syntax you'll use in the README
+- [GitHub Docs](https://docs.github.com/) - [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - examples for inspiration
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) - the syntax you'll use in the README
