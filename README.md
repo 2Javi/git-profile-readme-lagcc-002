@@ -8,7 +8,6 @@ resources: 3
 
 ![GitHub Profile](https://img.shields.io/badge/GitHub_Profile_README-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
-![Difficulty](https://img.shields.io/badge/difficulty-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=for-the-badge)
 
 ## Background
 
