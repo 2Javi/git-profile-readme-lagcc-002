@@ -19,7 +19,7 @@ The trick: GitHub treats any **public repository whose name matches your usernam
 - Username `jane-doe` → public repo named `jane-doe` → the README inside renders on the profile.
 - Username `jsmith42` → public repo named `jsmith42` → same deal.
 
-Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
+Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://ttpr-lgcc.github.io/handbook/modules/01-setup).
 
 ## Objectives
 
